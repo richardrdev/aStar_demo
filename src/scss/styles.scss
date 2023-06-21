@@ -1,0 +1,11 @@
+@import '../../node_modules/bulma/bulma.sass';
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
+.p5Canvas {
+    border: 1px solid black;
+    margin: 0 auto;
+}
